@@ -5,6 +5,6 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me:
-  EMAIL: joao.miguel.loureiro@tecnico.ulisboa.pt
+- 📫 How to reach me:\n
+  EMAIL: joao.miguel.loureiro@tecnico.ulisboa.pt\n
   LINKEDIN: https://www.linkedin.com/in/jo%C3%A3o-loureiro-3392021b3/
