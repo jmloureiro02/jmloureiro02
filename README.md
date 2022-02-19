@@ -1,2 +1,2 @@
-- EMAIL: joao.miguel.loureiro@tecnico.ulisboa.pt
-- LINKEDIN: https://www.linkedin.com/in/jo%C3%A3o-loureiro-3392021b3/
+- email: joao.miguel.loureiro@tecnico.ulisboa.pt
+- LinkedIn: https://www.linkedin.com/in/joao-miguel-loureiro
